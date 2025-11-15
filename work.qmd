@@ -1,0 +1,75 @@
+---
+title: "PROFESSIONAL EXPERIENCE"
+---
+
+::: {.callout-note collapse="true" icon="false"}
+# Graduate Research Assistant
+
+## University of North Dakota, Department of Chemistry \| Grand Forks, ND \| August 2020 – March 2021
+
+• Conduct advanced research regarding occurrence of both nonvolatile and semi volatile carbonaceous air particulate markers using thermal desorption-pyrolysis-gas chromatography-mass spectrometry
+
+• Performed routine instrument troubleshooting and maintenance to ensure optimal performance and data quality.
+
+# 
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Analytical Chemist
+
+## Kelly Scientific Inc. (SITE: SA CHEM INC.) \| Cleburne, TX \| June 2019 – February 2020
+
+• Conducted analytical testing of products using ICP-MS, HPLC, atomic absorption spectroscopy, and ion chromatography
+
+• Collaborate with research team on experimental design and data analysis
+
+• Prepared reagents and maintained laboratory standards in compliance with safety protocols
+
+• Contributed to R&D projects focused on analytical method development and optimization
+
+• Documented and reported results with accuracy and attention to detail
+
+# 
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Graduate Researcher
+
+## University of Oklahoma \| Norman, OK \| August 2015 – July 2018
+
+• Developed and optimized ruthenium thin films using spin coating techniques with full characterization
+
+• Designed and fabricated PDMS microfluidic devices for analytical applications.
+
+# 
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## R&D Chemistry Intern
+
+## Senseonics Inc. \| Germantown, MD \| June 2014 – September 2014
+
+• Executed QC test runs on post-clinical glucose sensors across various concentration ranges
+
+• Conducted fluorescence measurements and qualitative protein analysis using fluorometry
+
+• Performed boronate group analysis in indicator gels for continuous glucose monitoring systems
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Undergraduate researcher
+
+## Southeastern Louisiana University \| Hammond, LA \| July 2010 – August 2012
+
+• Synthesized dihydroquinolines via modified Skraup cyclization
+
+• Characterized liquid and solid products from wood gasifier using DLS
+
+• Performed thermal analysis of DMSO using differential scanning calorimetry
+
+• Conducted fractionation studies of EPDM rubber using centrifuge techniques
+
+# 
+:::
+
+## 

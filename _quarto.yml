@@ -1,0 +1,38 @@
+project:
+  type: website
+website:
+  title: "Saurav Malla"
+  navbar:
+    left:
+      - href: about.qmd
+        text: "ABOUT ME"
+      - href: work.qmd
+        text: "WORK EXPERIENCE"
+      - href: teaching.qmd
+        text: "TEACHING"
+      - href: instruments.qmd
+        text: "SKILLS"
+      - href: rprojects.qmd
+        text: "My R projects"
+      - href: honors.qmd
+        text: "AWARDS"
+      - href: leadership.qmd
+        text: "LEADERSHIP"
+      - href: files/resume.pdf
+        text: "RESUME"
+  favicon: images/nep.jpg
+
+
+format:
+  html:
+    theme:
+      - minty
+      - brand
+    css: styles.css
+    toc: FALSE
+    fig-width: 8
+    fig-height: 6
+    out-width: "80%"
+
+editor: visual
+

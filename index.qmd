@@ -1,0 +1,9 @@
+---
+title: "My profile"
+---
+
+**Hello!**
+
+Thank you for visiting.
+
+I'm driven by curiosity and a passion for understanding how things work at a fundamental level. My experience across research labs, corporate settings, and university environments has taken me from studying precursors for medicines to developing medical device technologies, always focused on connecting fundamental science with real-world applications. My journey through chemistry has taught me that great science isn't confined to a single discipline—it's about asking the right questions, mastering diverse techniques, and collaborating with others to push the boundaries of what we know. Whether I'm diving into a new analytical challenge, learning programming to unlock insights from data, or sharing the excitement of discovery through teaching and outreach, I'm constantly driven by the belief that every experiment, every measurement, and every observation brings us closer to understanding our world.

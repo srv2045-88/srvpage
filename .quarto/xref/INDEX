@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "2c759c22"
+  },
+  "honors.qmd": {
+    "honors.html": "8a92e758"
+  },
+  "instruments.qmd": {
+    "instruments.html": "1e4a9d6f"
+  },
+  "leadership.qmd": {
+    "leadership.html": "240f6e15"
+  },
+  "teaching.qmd": {
+    "teaching.html": "8a82888a"
+  },
+  "work.qmd": {
+    "work.html": "ceb9abc5"
+  },
+  "index.qmd": {
+    "index.html": "686f931f"
+  },
+  "rprojects.qmd": {
+    "rprojects.html": "bb4255aa"
+  }
+}

@@ -1,0 +1,28 @@
+---
+title: "About Me"
+about: 
+  template: jolla
+  image: files/srv.jpg
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:srv2045@gmail.com
+    - text: Linkedin
+      icon: linkedin
+      href: www.linkedin.com/in/sauravmalla
+    - text: Resume
+      icon: file-text
+      href: files/resume.pdf
+---
+
+**👋 Welcome!**
+
+I'm an analytical chemist by training. Science and nature are two things I'm interested in.
+
+Beginner at R programming, hope to use it to do better science in future!
+
+|     |
+|-----|
+|     |
+
+**Contact:**

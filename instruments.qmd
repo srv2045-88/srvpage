@@ -1,0 +1,27 @@
+---
+title: "SKILLS"
+---
+
+::: {.callout-note collapse="true" icon="false"}
+## Programming
+
+## R programming (Intermediate)
+
+## SQL (Beginner)
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Instrumentation
+
+# ICP-MS, HPLC, GC/MS, Atomic Absorption Spectroscopy (GFAA), Fluorescent Spectroscopy, NMR, Ion Chromatography (Cation/Anion IC)
+
+## Characterization Methods
+
+Dynamic Light Scattering (DLS), Differential Scanning Calorimetry (DSC), Fluorometry
+
+## Microscopy
+
+Leica Stereomicroscope, Olympus Fluoview Microscope
+
+#  {collapse="true"}
+:::

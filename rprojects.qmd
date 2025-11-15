@@ -1,0 +1,27 @@
+---
+title: "R projects"
+---
+
+::: {.callout-note collapse="true" icon="false"}
+## NHANES project
+
+# Comprehensive NHANES Health Disparities Analysis
+
+\`\`\`{=html} <iframe 
+    src="files/NHANES_Complete_Analysis.html" 
+    width="100%" 
+    height="1000px" 
+    style="border: none; margin-top: 15px;"> </iframe>
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## GenZ protest in Nepal- 2025
+
+\`\`\`{=html} <iframe 
+    src="files/genzv4.html" 
+    width="100%" 
+    height="1000px" 
+    style="border: none; margin-top: 15px;"> </iframe>
+
+# 
+:::
